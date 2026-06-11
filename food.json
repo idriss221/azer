@@ -1,0 +1,12 @@
+{
+  "restaurant": "MiamGo",
+  "slogan": "Vos envies, livrées, en un clic",
+  "intro": "Bienvenue à MiamGo! <br> Parceque chaque repas est un moment de plaisir. MiamGo vous rapproche de vos saveurs <br> préférées. Découvrez une large sélection de plats. fast-foods, patisseries , glaces et boissons <br> préparés avec soin par les meilleurs restaurants et artisans de chez vous. <br> commandez en quelques clics; faites-vous livrer rapidement et savourez sans attendre <br> MiamGo , vos envies livrées à votre porte.",
+  "categories": [
+    { "name": "Pâtisserie", "description": "Desserts frais et douceurs maison" },
+    { "name": "Gelato", "description": "Glaces artisanales et saveurs variées" },
+    { "name": "Pizzeria", "description": "Pizzas croustillantes et garnies" },
+    { "name": "Fast food", "description": "Burgers, frites et snacks rapides" },
+    { "name": "Traiteur", "description": "Plats chauds et menus du jour" }
+  ]
+}
